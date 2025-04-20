@@ -18,9 +18,23 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 ## Descripción general
 
 ### Captura de pantalla
-![](./screenshot.jpg)
+![](./images/Frontend-Mentor-QR-code-component.png)
 
 
 ### Links
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/pgina-adaptable-a-desktop-y-mvil-basada-en-html-y-css-SZT4G47GnF)
-- Live Site URL: [Add live site URL here](https://braismarquez2025.github.io/qr-code-component-main/)
+- URL de la solución: https://www.frontendmentor.io/solutions/pgina-adaptable-a-desktop-y-mvil-basada-en-html-y-css-SZT4G47GnF
+- URL del sitio en vivo: https://braismarquez2025.github.io/qr-code-component-main/
+
+
+## Mi proceso
+
+### Llevado a cabo con
+
+- Marcado semántico HTML5
+- Propiedades personalizadas de CSS
+- Preprocesador SCSS
+- Flexbox
+
+### Autor 
+- Usuario de Frontend - [@braismarquez2025](https://www.frontendmentor.io/profile/braismarquez2025)
+- Gmail - braismarquez2003@gmail.com
