@@ -17,8 +17,8 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 
 
 ### Links
-- URL de la solución: https://www.frontendmentor.io/solutions/pgina-adaptable-a-desktop-y-mvil-basada-en-html-y-css-SZT4G47GnF
-- URL del sitio en vivo: https://braismarquez2025.github.io/qr-code-component-main/
+- [URL de la solución](https://www.frontendmentor.io/solutions/pgina-adaptable-a-desktop-y-mvil-basada-en-html-y-css-SZT4G47GnF)
+- [URL del sitio en vivo](https://braismarquez2025.github.io/qr-code-component-main/)
 
 
 ### Llevado a cabo con
