@@ -14,3 +14,13 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
   - [Recursos útiles](#recursos-utiles)
 - [Autor](#autor)
 - [Agradecimientos](#agradecimientos)
+
+## Descripción general
+
+### Captura de pantalla
+![](./screenshot.jpg)
+
+
+### Links
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://braismarquez2025.github.io/qr-code-component-main/)
