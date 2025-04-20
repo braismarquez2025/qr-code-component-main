@@ -7,8 +7,8 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 - [Descripción general](#descripcion-general)
   - [Captura de pantalla](#captura-de-pantalla)
   - [Links](#links)
-- [Llevado a cabo con](#llevado-a-cabo-con)
-- [Autor](#autor)
+  - [Llevado a cabo con](#llevado-a-cabo-con)
+  - [Autor](#autor)
 
 ## Descripción general
 
@@ -21,14 +21,14 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 - URL del sitio en vivo: https://braismarquez2025.github.io/qr-code-component-main/
 
 
-
-## Llevado a cabo con
+### Llevado a cabo con
 
 - Marcado semántico HTML5
 - Propiedades personalizadas de CSS
 - Preprocesador SCSS
 - Flexbox
 
-## Autor 
+
+### Autor 
 - Usuario de Frontend - [@braismarquez2025](https://www.frontendmentor.io/profile/braismarquez2025)
 - Gmail - braismarquez2003@gmail.com
